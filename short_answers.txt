@@ -1,0 +1,1 @@
+What is echo: a command to write a string of characters to a file. What is ls: command to list files in a directory. What is pwd: command to list the present working directory.
